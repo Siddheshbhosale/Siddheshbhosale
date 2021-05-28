@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**Siddheshbhosale/Siddheshbhosale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**✨I am Siddhesh✨**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😇 About me
+- I am 2nd year Engineering student at KIT's college of engineering.
+- I am interested in competitive programming.
+- I am currently learning web Development(Full stack).
+
+
+🥇Skill
+- c
+- C++
+- HTML
+- CSS
+- JavaScript
+- Data structure
+
+
+💬contact <br>
+<a href="www.linkedin.com/in/siddhesh-bhosale-6a49201b6
+">Linked In</a>
