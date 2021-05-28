@@ -1,7 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
 
-**✨I am Siddhesh✨**
+## ✨I am Siddhesh✨ 
+computer science enthusiast.
+<br>
+<br>
 
 😇 About me
 - I am 2nd year Engineering student at KIT's college of engineering.
