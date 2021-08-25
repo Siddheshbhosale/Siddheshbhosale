@@ -6,7 +6,7 @@ computer science enthusiast.
 <br>
 
 😇 About me
-- I am 2nd year Engineering student at KIT's college of engineering.
+- I am 3nd year Engineering student at KIT's college of engineering.
 - I am interested in competitive programming.
 - I am currently learning web Development(Full stack).
 
