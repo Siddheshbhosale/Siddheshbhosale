@@ -6,8 +6,8 @@
 - 🚀 Enthusiastic React.js Maestro 🌐 | Crafting Seamless User Experiences, Streamlining Codebases, and Pioneering Modern Development Practices. On a mission to fuel innovation in web projects and continuously push the boundaries of frontend development. Let's build something extraordinary! 👨‍💻✨
 
 
-- ⚡ Here is my portfolio, check [Portfolio Website](https://frontendpro.hashnode.dev/)
-- Feel free to connect with me at bhosalesiddhesh9@gmail.com or on [LinkedIn](https://www.linkedin.com/in/siddheshbhosale).
+- ⚡ Here is my portfolio, check [Portfolio Website]()
+- Feel free to connect with me at bhosalesiddhesh9@gmail.com or on [LinkedIn](https://my-portfolio-siddheshbhosale.netlify.app/).
 
 <p align="center">
 Let's code and create something amazing together! 🚀
