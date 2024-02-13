@@ -32,9 +32,9 @@ Let's code and create something amazing together! 🚀
 <a href="https://github.com/Siddheshbhosale/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddheshbhosale&theme=radical&hide=glsl,python" />
 </a>
-<a href="https://github.com/Siddheshbhosale/github-readme-stats">
+<!-- <a href="https://github.com/Siddheshbhosale/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Siddheshbhosale&show_icons=true&theme=radical&line_height=27" alt="Siddheshbhosale's github stats" />
-</a>
+</a> -->
 <p align="center">
 <a align="center" href="https://github.com/Siddheshbhosale/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Siddheshbhosale&theme=dark" alt="Siddheshbhosale's github stats" />
